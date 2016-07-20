@@ -6,8 +6,7 @@ url: http://www.apcension.com
 title: Cloud Infrastructure Consulting
 email: admin@apcension.com
 author: Apcension, LLC
-description: > "Cloud consulting firm focused on implementing cutting edge cloud products built on 
-  kubernetes, mesos, marathon, docker, on-premise or cloud infrastructure."
+description: "Cloud consulting firm focused on implementing cutting edge cloud products built on kubernetes, mesos, marathon, docker, on-premise or cloud infrastructure."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
